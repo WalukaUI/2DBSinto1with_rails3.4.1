@@ -1,24 +1,58 @@
-# README
+Backend for Doctor appointment Bookig app and TnT project manager app....
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+😎\***\*Backend Features of Doctor appointment Bookig app\*\***😎
 
-Things you may want to cover:
+URL = https://doctor-appointment-creator.netlify.app/
 
-* Ruby version
+⭐**_Tables of the App_**⭐
 
-* System dependencies
+- Doctors
+- Patients
+- Appointments
+- Comments
+- Locations
 
-* Configuration
+...Used below technologies...
 
-* Database creation
+- Cookies and Sessions
+- Action Mailer
+- Authentication
+- Serializing
+- Active record Validation
+- Error handling
+- Nested Resource Routing
 
-* Database initialization
+  ⬇ POSTGRESQL TABLE RELATIONSHIP ⬇
 
-* How to run the test suite
+![Alt text](./appointment.jpg?raw=true "Title")
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+**\* Backend Features of TnT project manager app \*\***
+
+URL = https://project-manager-bkend.herokuapp.com/cities
+
+⭐**_Tables of the App_**⭐
+
+- cities
+- countries
+- departments
+- employees
+- project_employees
+- projects
+- users
+
+...Used technologies...
+
+- DB=PostgreSQL
+- Cookies and Sessions
+- Authentication
+- Serializing
+- Active record Validation
+- Error handling
+- Active Mailer
+
+⬇ Table relationship ⬇
+
+![Alt text](./mymodel.jpg?raw=true "Title")
